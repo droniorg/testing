@@ -1,6 +1,5 @@
 ---
 title: Our Story
-hero: Our story
 ---
 
 
