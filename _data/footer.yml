@@ -1,0 +1,33 @@
+- title: General
+  links:
+    - name: About
+      link: /about/
+    - name: Contact
+      link: /contact/
+- title: Projects
+  links:
+    - name: International
+      link: /international/
+    - name: Local
+      link: /local/
+- title: Team
+  links:
+    - name: Our Team
+      link: /team/
+    - name: Our Volunteers
+      link: /volunteers/
+      
+- title: Social
+  links:
+    - name: DRONI 
+      link: 'https://www.facebook.com/droniorg'
+      new_window: true
+      social_icon: Facebook
+    - name: DRONI
+      link: 'https://www.instagram.com/droniorg'
+      new_window: true
+      social_icon: Instagram
+    - name: DRONI
+      link: 'https://www.twitter.com/droniorg'
+      new_window: true
+      social_icon: Twitter

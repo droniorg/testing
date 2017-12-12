@@ -1,0 +1,25 @@
+- name: Home
+  link: /
+  new_window: false
+  highlight: true
+- name: About
+  link: /about/
+  new_window: false
+  highlight: true
+- name: Projects
+  link: /international/
+  new_window: false
+  highlight: true
+- name: Erasmus+
+  link: /Erasmus/
+  new_window: false
+  highlight: true
+- name: EVS
+  link: /EVS/
+  new_window: false
+  highlight: true
+- name: Contact
+  link: /contact/
+  new_window: false
+  highlight: true
+ 
